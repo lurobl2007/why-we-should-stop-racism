@@ -1,1 +1,0 @@
-# why-we-should-stop-racism
