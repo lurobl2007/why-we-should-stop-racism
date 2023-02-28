@@ -1,0 +1,24 @@
+body {
+    background-color:#BBB8F0;
+}
+.title{ 
+    text-align:center;
+}
+/* The code from lines 6-10 adds the black background-color and white text color for each section heading. If you want to change the color of the section headers, change this code!*/
+div {
+    color:white;
+    text-align: center;
+    background-color: purple;
+}
+h1 {
+    text-shadow: 2px 2px #f19dfa 
+        ;}
+img{
+    width: 100px;
+}
+img{
+    width: 200px;
+}
+text{
+    width: 300px;
+}
